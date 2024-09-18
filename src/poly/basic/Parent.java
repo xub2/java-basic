@@ -6,7 +6,4 @@ public class Parent {
         System.out.println("Parent.parentMethod");
     }
 
-    public void childMethod(){
-        System.out.println("Child.childMethod");
-    }
 }

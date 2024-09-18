@@ -18,6 +18,6 @@ public class PolyMain {
         System.out.println("Parent => Child");
         Parent poly = new Child();
         poly.parentMethod();
-        poly.childMethod();
+
     }
 }
